@@ -1,0 +1,15 @@
+.centrado{
+  margin : auto
+}
+
+.caja{
+  text-align: center;
+  border-radius: 29px;
+  border: 1px solid rgb(143, 143, 143);
+}
+
+.bordes{
+  height: 50%;
+  border-radius: 29px;
+  border: 1px solid rgb(143, 143, 143);
+}
